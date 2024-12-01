@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MobileOrder_frontend/static/css/main.0ed903d6.css",
+    "main.js": "/MobileOrder_frontend/static/js/main.aabdb8f6.js",
+    "static/js/453.8ab44547.chunk.js": "/MobileOrder_frontend/static/js/453.8ab44547.chunk.js",
+    "index.html": "/MobileOrder_frontend/index.html",
+    "main.0ed903d6.css.map": "/MobileOrder_frontend/static/css/main.0ed903d6.css.map",
+    "main.aabdb8f6.js.map": "/MobileOrder_frontend/static/js/main.aabdb8f6.js.map",
+    "453.8ab44547.chunk.js.map": "/MobileOrder_frontend/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ed903d6.css",
+    "static/js/main.aabdb8f6.js"
+  ]
+}
